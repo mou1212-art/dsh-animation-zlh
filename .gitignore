@@ -1,0 +1,6 @@
+*.tar.gz
+*.mov
+Thumbs.db
+desktop.ini
+.DS_Store
+

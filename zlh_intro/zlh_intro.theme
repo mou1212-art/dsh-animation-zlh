@@ -1,0 +1,10 @@
+[DSH Boot Animation]
+Name=zlh_intro
+Description=Full-frame intro clip played once per DSH launch
+Comment=Created for DSH (DeepSeek Harness)
+ModuleName=video
+
+[video]
+VideoFile=zlh_intro.mp4
+ConfigFile=zlh_intro.json
+InstallDir=~/.dsh/boot-animation
